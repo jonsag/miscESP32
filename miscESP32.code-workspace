@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "CameraWebServer-pio",
+			"path": "ESP32-CAM_WebServer/CameraWebServer-pio"
+		},
+		{
+			"name": "esp32-cam-webserver-pio",
+			"path": "ESP32-CAM_WebServer/esp32-cam-webserver-pio"
+		}
+	],
+	"settings": {}
+}
