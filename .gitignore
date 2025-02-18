@@ -1,3 +1,5 @@
 ESP32-CAM Programmer/KiCad/esp32-CAM Programmer/esp32-CAM Programmer-backups/
 *.kicad_prl
 fp-info-cache
+ESP32-CAM_WebServer/CameraWebServer-pio/src/secrets.h
+ESP32-CAM_WebServer/esp32-cam-webserver-pio/secrets.h
